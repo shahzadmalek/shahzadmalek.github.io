@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+		<title>MY PORTFOLIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/style.css" />
+	
+	
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="logo"><a href="index.html"> </a></div>
+				
+			</header>
+
+	
+
+		
+			<section id="banner" >
+			
+				<div class="inner">
+					<h1>References, Attachments & Certificates</h1>
+					<p></p>
+					<a href="#one" class="button special scrolly">Get Started</a>
+					<a href="index.html" class="button special scrolly">Go Back</a>
+				</div>
+				
+			</section>
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<div>
+						<div class="box">
+							
+							<div class="content">
+								<header class="align-center">
+									<h2>My References, Attachments & Certificates</h2>
+									
+								</header>
+								<hr />
+								<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          References 
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+       <ul>
+									<li>Peer Mentor
+									<ul><li>Mr T.Mathabathe
+									<ul><li>Relation: Colleague </li>
+									<li>Contact details: 084 080 9059</li>
+									</ul></li>
+									<li>Mrs M. Magodielo
+									<ul><li>Relation: Director (Peer mentor) </li>
+									<li>Contact details: 018 389 2381</li>		
+									<li>Email details: mittah.Magodielo@nwu.ac.za</li>
+									</ul></li>
+									</ul>
+									</li>
+									
+									
+									<li>Winter Camp Facilitator
+									<ul><li>Mr. U Makhado                       
+									<ul><li>Relation: Colleague </li>
+									<li>Contact details: 072 342 3558</li>
+									</ul></li>
+									<li>Mr. A van der Westhuizen                      
+									<ul><li>Relation: Colleague </li>
+									<li>Contact details: 078 654 0205</li>
+									</ul></li>
+									<li>Mr P Mokgothu
+									<ul><li>Relation: Coordinator </li>
+									<li>Contact details: 076 687 38250</li>	
+									
+									
+									</ul></li>              
+									</ul>
+									</li>
+									 
+									
+	    </ul>
+			
+		
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Attachments & Certificates
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        
+									<div class="list-group">
+  
+  <a href="https://drive.google.com/open?id=1DhSsrlgOZR2ql0rO-2xAQbcitIacfKGP" class="list-group-item ">Final Year Transcript</a>
+  <a href="https://drive.google.com/open?id=1YFq6bM1P9FkScjdZXAla0kkO1yjDqlYM" class="list-group-item list-group-item-action">Matric Certificate</a>
+  <a href="https://drive.google.com/open?id=1nYACq-ECK-7WcoHSZWuRE4fy2ATUb5qf" class="list-group-item list-group-item-action">Golden Key Membership Certificate</a>
+  <a href="https://drive.google.com/open?id=1VCX7LGPApPL53na9SJeGQAVOE45TuDE8" class="list-group-item list-group-item-action">Peer Mentor Work Certificate </a>
+  <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">BCom degree in Information Systems </a>
+   <a href="https://www.youracclaim.com/badges/454243d8-a221-490f-b391-3b135ea58d48/linked_in_profile" class="list-group-item list-group-item-action">IBM: Identify and Investigate Cybersecurity Threats Certificate </a>
+  
+</div>
+									
+		
+			
+      </div>
+    </div>
+  </div>
+  
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<!-- Four -->
+			<section id="four" class="wrapper style3">
+				<div class="inner">
+
+					<header class="align-center">
+						<h2></h2>
+						<p></p>
+					<h3>Contact me: </h3>
+						<p>Email: shahzadmalek487@gmail.com| Cell: 0710391782</p>
+						
+						 
+				 <ul class="icons">
+									<li><a href="http://www.pinterest.com/shahzadmalek" class="icon brands fa-pinterest"><span class="label">Pinterst</span></a></li>
+									<li><a href="404error.html" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://za.linkedin.com/in/shahzadmalek" class="icon brands fa-linkedin"><span class="label">LinkedLn</span></a></li> 
+									
+									
+								</ul>
+			
+					</header>
+
+				</div>
+			</section>
+
+</body
+</html>
+
+

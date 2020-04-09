@@ -1,0 +1,316 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+		<title>MY PORTFOLIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="assets/css/main.css" />
+	    <link rel="stylesheet" href="assets/css/animate.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/style.css" />
+	
+	
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="logo"><a href="index.html"> </a></div>
+				
+			</header>
+
+	
+
+		
+			<section id="banner" >
+			
+				<div class="inner">
+					<h1>Skills</h1>
+					<p></p>
+					<a href="#one" class="button special scrolly">Get Started</a>
+					<a href="index.html" class="button special scrolly">Go Back</a>
+				</div>
+				
+			</section>
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<div>
+						<div class="box">
+							
+							<div class="content">
+								<header class="align-center">
+									<h2>Skills Acquired</h2>
+									
+								</header>
+								<hr />
+								<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          General Skills
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+       <ul>
+									<li>Good Interpersonal and Communication Skills</li>
+									<li>Team player, Quick learner and creative</li>
+									<li>Time Management and team management</li> 
+									<li>Flexible team player who can effectively manage multiple responsibilities in a busy environment and ensure they are prioritized and completed in a timely and accurate manner</li>
+									<li>Ability to build healthy/trustable relationships with diverse workforces in multicultural settings</li>
+									<li>Dependable energetic performer who is highly organized, dedicated, and committed to professionalism</li>
+									<li>Innovative planner and problem-solver who can generate workable solutions and resolve complaints</li>
+									<li>Ability to learn new technology quickly</li>
+									<li>Multi linguistic: <ul>
+									                          <li>English   (Fluent)</li>
+															  <li>Afrikaans (Intermediate)</li>
+															  <li>Urdu      (Fluent)</li>
+															  <li>Arabic    (Intermediate) </li>
+															  <li>Setswana  (Intermediate) </li>
+															  <li>NB: Planning to learn Spanish and Manderin</li>
+														   </ul>
+									</li>
+	    </ul>
+			
+		
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Networking Skills 
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        <ul>
+									<li>Installing, configuring and supporting network equipment including routers, proxy servers, switches, WAN accelerators, DNS and DHC.</li>
+									<li>Procuring network equipment and Configuring firewalls, routing and switching to maximize network efficiency and security  </li>
+									<li>Maximizing network performance through ongoing monitoring and troubleshooting, scheduling upgrades </li> 
+									<li>Updating of network equipment to the latest firmware releases and Investigating faults in the network</li>
+									
+									
+		</ul>
+			
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Programming and Computer Skills
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+  
+									<div class="row">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<p>Programming and Computer skills I acquired</p>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Photoshop</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Front-End (Web development, web design & UI/ UX)</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								    <span>75%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>HTML5, CSS3, JS</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Back-End (Django, Phython & MySql)</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="65"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+								    <span>65%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>WordPress</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>C# Programming Language</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Java Programming Language</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Python Programming Language</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="65"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+								    <span>65%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Kali-Linux OS & Bash Scripting</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="65"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+								    <span>65%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Packet Tracer and Networking</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>C++ and BlockChain Solidity</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="35"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:35%">
+								    <span>35%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Microsoft Office (MS Word, MS Excel, MS Powerpoint)</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								    <span>75%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>MS Access & MS Project </h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="65"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+								    <span>65%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>MS Visio</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="45"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:45%">
+								    <span>45%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+					</di
+									
+		
+			      </div>
+    </div>
+  </div>
+</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+				<!-- Four -->
+			<section id="four" class="wrapper style3">
+				<div class="inner">
+
+					<header class="align-center">
+						<h2></h2>
+						<p></p>
+					<h3>Contact me: </h3>
+						<p>Email: shahzadmalek487@gmail.com| Cell: 0710391782</p>
+						
+						 
+				 <ul class="icons">
+									<li><a href="http://www.pinterest.com/shahzadmalek" class="icon brands fa-pinterest"><span class="label">Pinterst</span></a></li>
+									<li><a href="404error.html" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://za.linkedin.com/in/shahzadmalek" class="icon brands fa-linkedin"><span class="label">LinkedLn</span></a></li> 
+									
+									
+								</ul>
+			
+					</header>
+
+				</div>
+			</section>
+			
+
+</body
+</html>
